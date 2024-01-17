@@ -13,4 +13,4 @@ una vez descargada la app, ejecuta uno de estos comandos via consola:
 - **Maven**  - `mvn spring-boot:run`
 - **Gradle** - `./gradlew bootRun`
 
-Cuando la aplicacion este corriendo en la consola, ve a la siguiente ruta en el navegador [http://localhost:8080/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/) para explorar los endpoints de la API.
+Cuando la aplicacion este corriendo en la consola, ve a la siguiente ruta en el navegador [http://localhost:5000/swagger-ui/index.html#/](http://localhost:8080/swagger-ui/index.html#/) para explorar los endpoints de la API.
